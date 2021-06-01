@@ -1,4 +1,4 @@
 # autopotion
 Auto Potion for the use of automatic potions in MuOnline with hotkeys.
 
-![capture image gif](https://i.gyazo.com/b32f0cf9fc9cf89fc3989d0ceae3f52b.gif)
+![capture image gif](https://im4.ezgif.com/tmp/ezgif-4-7c74504078e0.gif)
