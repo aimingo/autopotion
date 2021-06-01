@@ -1,0 +1,2 @@
+C:\Users\adroan\source\repos\AP\AP\bin\Release\netcoreapp3.1\publish\AP.pdb
+C:\Users\adroan\source\repos\AP\AP\bin\Release\netcoreapp3.1\publish\AP.exe
